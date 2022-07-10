@@ -1,2 +1,2 @@
-- Hi im Karsuar and I ama person that is trying to learn more about coding and finally create my own programs and MC plugins. 
+- Hi im Karsuar and I am a person that is trying to learn more about coding and finally create my own programs and MC plugins. 
 - Thank you. 
